@@ -1,3 +1,9 @@
+AIM:
+To study and implement C++ Bitwise Operators
+
+SOFTWARE USED:
+VS Code
+
 Theory:
 
 Bitwise operators in C++ are used to perform operations at the bit level. These operators directly manipulate the binary representations of data, making them efficient for low-level programming, embedded systems, and performance-critical applications.
